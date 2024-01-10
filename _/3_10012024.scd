@@ -1,0 +1,1 @@
+{Mix.fill(32,{Saw.ar(1000*XLine.ar([rrand(0.25,4),rrand(0.25,4)],[rrand(0.25,4),rrand(0.25,4)],60,doneAction:2),mul:0.1)})}.play;
