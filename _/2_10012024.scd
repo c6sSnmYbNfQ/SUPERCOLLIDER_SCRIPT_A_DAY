@@ -1,0 +1,1 @@
+{Mix.fill(128,{SinOsc.ar([rrand(20,20000),rrand(20,20000)])})}.play;
