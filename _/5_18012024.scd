@@ -1,0 +1,1 @@
+{Limiter.ar(ChaosGen.allSubclasses.choose.ar([TRand.kr(0.01,30,Impulse.kr(1/10)),TRand.kr(0.01,30,Impulse.kr(1/10))])*2)}.scope;
