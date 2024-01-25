@@ -1,0 +1,1 @@
+{var n=[8,32,64,128,256].choose; Mix.fill(n, {Out.ar(0, SinOsc.ar([rrand(20,20000),rrand(20,20000)],mul:1/n))})}.scope;
