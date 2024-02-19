@@ -1,0 +1,1 @@
+~boot="C:/Users/selfd/OneDrive/Desktop/ben/masterboot.scd".load;
